@@ -17,6 +17,7 @@ public class ContactService {
     {
     	contactList.add(new Contact(1,"Abhay","Singh","Civil Lines", "Prayagraj","UP","211001","9876543210","abhay@gmail.com"));
     	contactList.add(new Contact(2,"Abhishek","Sharma","MAthura","Lines","UPP","281406","8076538928","abc@gmail.com"));
+    	
         
     }
     public List<Contact> getAllContacts() {
